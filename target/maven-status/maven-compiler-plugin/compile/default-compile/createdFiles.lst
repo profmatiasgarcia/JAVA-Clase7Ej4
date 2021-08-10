@@ -1,0 +1,9 @@
+test/Test2.class
+controladores/ControladorProveedor.class
+config/HibernateUtil.class
+test/Test.class
+entidades/Producto.class
+controladores/ControladorProducto.class
+entidades/Proveedor.class
+entidades/Persona.class
+controladores/InterControl.class
